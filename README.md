@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Pradhyumna-Joshi/Pradhyumna-Joshi/blob/main/LinkedInPoster%20(1).png)
 <h1 align="center">Hi 👋, I'm Pradhyumna Joshi</h1>
 
-<h3 align="center">A passionate Mobile App,Frontend developer from India</h3>
+<h3 align="center">A passionate Mobile App, Web, Salesforce Developer from India</h3>
 
 - 💬 Ask me about **Android,Mobile App Development**
 
